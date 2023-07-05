@@ -1,0 +1,50 @@
+button{
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.date{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.time{
+    font-size: 25px;
+    margin-top: 0px;
+    color: white;
+}
+.greeting{
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    color:white
+}
+
+.Morning-Wallpaper{
+    background-image: url(images/Morning-Wallpaper.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Afternoon-Wallpaper{
+    background-image: url(images/Afternoon-Wallpaper.jpeg); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Night-Wallpaper{
+    background-image: url(images/Night-Wallpaper.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+hr{
+    height:10px;
+    background-color: white;
+    border:none;
+    border-radius: 5px;
+}
